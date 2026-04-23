@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**jayandcobrand/jayandcobrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  # Hi, I'm [John] 👋                                                                                                                                                                           
+                  
+  ## About Me
+  - IT professional in training, studying for Network+, Security+
+  - Building hands-on skills in Linux and networking                                                                                                                                                 
+  - Documenting my learning journey through projects
+                                                                                                                                                                                                     
+  ## Current Projects
+  - 🐧 Ubuntu ARM Server Lab — Linux & networking practice                                                                                                                                           
+  - 📡 Network+ Study Notes                                                                                                                                                                          
+                                                                                                                                                                                                     
+  ## Skills in Progress                                                                                                                                                                              
+  - Linux CLI                                                                                                                                                                                        
+  - Networking (OSI Model, TCP/IP, subnetting)
+  - Git & GitHub                                                                                                                                                                                     
+  
+  ## Goals                                                                                                                                                                                           
+  - CompTIA Network+ certification
+  - Build a strong IT project portfolio   
